@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "rare-chiller-166520",
+  "private_key_id": "aa456f0a6b33ef41603bbac33983385b368e435a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCv8RZ9Pd+LWoZX\noNuaIHqBHcgxHvykJ0jEosnKREqeMYzX4NphthjNOOubqKqNtqxQL02/WEdAUwA9\ns4H0JhT77RK8tpwkKMSYXrmJI+JeQZ89joxsJjTTRYcjtPGvDnNTa1LvDgoT/0yq\nYxyjHe2qroTdGvbc35wFtqDZuvIKp5etNnR6aRlyrAmhrcBtfaLuzUGmDj9UV7n2\nebNpAXdyCO89QG4i1+k6VHRUgnEpwTTAMhF/hXdUXwLY9HbnJjLR5QPJ25STWOR8\nGIakzZBfFe4Dpd9DaXOR2K15s3Xj+ejPoNduuFWk/2jPNGuB4l69yvaqEpNkN4kL\nioHKeSMxAgMBAAECggEAVjHrjaIBYXkQ9d81ltWwjo7zo7UFmrowOT1zVKeOUt/9\nm0lqU5JtpiTrsI+6NsE2u/XgxgxOo+HF7XSDBwSdJSrpEhD4f/KFFgzaIqi03u6R\nQAwVGWrCWHrokQK1oMiYkVa0A6/CGjfp7FOwFO21oPfs2ZG7PUxDWL03IlQm/jZ5\ntBeNlW1UzAZmuAW/Y7q032vvD9m6tKdFzegNyYx8+tRuGcccaph6ZaF9uTEJYdCc\nUCURHjyI39eaCUXc5BpmK5Aa6qlcxxJ4qBYkIKFJ7KpIPP5lS2MkOFcKquoASbns\nSmf1mMAEDn+IXetLFVagFEWRb+fnIjkL8/8EA0YYDQKBgQDswpmB51RLIPB/KUd6\nmQDvxy2kylq5vOIvuKqLYoEVUPmhMeSBknrTQUVYMSPxqAFzEsEjhD7UFGgKhopH\nXIy/rIyHkC78jC63Vy5Wq7iTc4xlnK2YRr3SLxRamxCrxYbIG29YwUdC0/0XHd83\nk/zrt9wY7/IhnfKY/67ynrFRVwKBgQC+PUM9+oMZbunWDd85nG8Lbz/hhr0wZsQh\nKtd9rZzN1qQvAKQnK5jvC9I5ARHakETANl0/01D6bWanTksatRQ8rihxKwp37IIF\nUiYvYHYC2DlitcX0i12ldNMM52rMk7AhsqsewKkYgVvSJ9HBHbsNPovtYgbPURNh\nySEH6LMytwKBgQCXQqRsN+zEquC7fRXrn4DXr/rbQ2S/MYuYTXS35FDv23IAqC2D\nEqBiA1tYQtzh8SIr8JlwJXc2a2sk/lutx9UsSALoQRejxbO68nnqaX9cxP+3k2fc\n16VCeU2ZrWPzOhkoE08J90Gd0m3prO4FRgjaV/bH/9RD4fMyCHgvDW/ftQKBgAoL\nKfWnuCwrkuTeLp7YB3TPFsxNVMetZUVrAZ19AP5NCrYAjqoSvyw/r4Wa7NphK4AK\nXrnz6h6OkBDdLVHnpX3eo/v1jcPvFJ47TBDMQu67g6wWdLEIepU1qb7QqO7MDUx6\nJlalTUgh7DsYJxbO/wUf/Ds4JavkV+WdvMSyIGPZAoGAC4oS4NnNJW7gOWazZyIw\n3x7CaxdvtQPWA1qbSxhfjmufDPRI25t+rXRb6IVpS4LNLhhmozJoaD3GPrDuREgf\nsnDc0yGTNgd5cxZLdaq0JHvfh0/JEMWZPTYL0WlTKQsoFJmK7rCViwc1V2njlAGn\np+Qn/aRKBnu3f1DRuRweTCA=\n-----END PRIVATE KEY-----\n",
+  "client_email": "programming-historian@rare-chiller-166520.iam.gserviceaccount.com",
+  "client_id": "107732685048929107909",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/programming-historian%40rare-chiller-166520.iam.gserviceaccount.com"
+}
